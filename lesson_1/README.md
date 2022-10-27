@@ -24,7 +24,7 @@ Github
 `cp` kopiuje
 
 git config user.name "ugh" 
-git config user.email "hugon.grabek@gmail.com" 
+git config user.email "" 
 
 `git add .`uaktualnia zmiany w wewnętrznej bazie danych
 
