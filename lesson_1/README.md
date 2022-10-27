@@ -21,4 +21,17 @@ Github
 
 `tab` uzupełnia w bashu
 
-`cp` kopiuje 
+`cp` kopiuje
+
+git config user.name "ugh" 
+git config user.email "hugon.grabek@gmail.com" 
+
+`git add .`uaktualnia zmiany w wewnętrznej bazie danych
+
+`git status`sprawdza status w wewnętrznej bazie danych
+
+`git commit -m"xyz"`  nazwanie zmian 
+
+`git push -u origin main` wysyła plik do internetu
+
+`git pull`pobiera zmiany z internetu do lokalnej kopii
