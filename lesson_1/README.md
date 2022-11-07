@@ -23,15 +23,17 @@ Github
 
 `cp` kopiuje
 
-git config user.name "ugh" 
-git config user.email "" 
+Jak ustawić użytkownika do repozytorium:
 
-`git add .`uaktualnia zmiany w wewnętrznej bazie danych
+- `git config user.name "ugh"`
+- `git config user.email "adres@ema.il"`
 
-`git status`sprawdza status w wewnętrznej bazie danych
+`git add .` uaktualnia zmiany w wewnętrznej bazie danych
 
-`git commit -m"xyz"`  nazwanie zmian 
+`git status` sprawdza status w wewnętrznej bazie danych
+
+`git commit -m "xyz"` nazwanie zmian 
 
 `git push -u origin main` wysyła plik do internetu
 
-`git pull`pobiera zmiany z internetu do lokalnej kopii
+`git pull` pobiera zmiany z internetu do lokalnej kopii
