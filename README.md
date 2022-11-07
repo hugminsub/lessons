@@ -9,3 +9,4 @@
  `ls` wylistuj pliki z katalogu
 
  `cat` wyświetla zawartość pliku
+# przepisy
