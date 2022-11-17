@@ -13,5 +13,24 @@ zmiana nazwy pliku:
 - :w-zapisywanie zmian w readme
 - cd ..-przejscie do katalogu wyżej
 - cd-przejście do katalogu domowego 
+<!doctype html>
+<html lang="en">
 
+        <head>
+                  <meta charset="utf-8">
+                    <title>Tytuł strony</title>
+                      <meta name="viewport" content="width=device-width, initial-scale=1">
+        </head>
+
+        <body>
+                <script>
+                if(confirm("potwierdzisz?"))
+                  alert("potwierdziłeś")
+                else
+                  console.log("nie potwierdziłeś")
+                </script>
+                 <h1>It Works!</h1>
+        </body>
+
+</html>
 
