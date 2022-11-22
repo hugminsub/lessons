@@ -1,4 +1,4 @@
-##lekcja 3
+## lekcja 3
 
-- 'history' - pokazuje historię wpisywanych komend
+- `history` - pokazuje historię wpisywanych komend
 - `rm -rf` - usuwa piliki i katalogi 
